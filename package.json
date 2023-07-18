@@ -1,0 +1,22 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Implementation of data structures from scratch using JavaScript.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumegalli/data-structures.git"
+  },
+  "keywords": ["data structures", "linked list"],
+  "author": "Rafael Fumegalli",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/fumegalli/data-structures/issues"
+  },
+  "homepage": "https://github.com/fumegalli/data-structures#readme",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
