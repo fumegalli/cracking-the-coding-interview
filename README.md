@@ -3,7 +3,7 @@
 
 ## :link: [Linked List](./src/linked-list)
 ## :books: [Stack](./src/stack)
-## :standing_person::standing_person::standing_person: [Queue](./src/queue)
+## :walking::standing_person::standing_person: [Queue](./src/queue)
 
 ### :page_facing_up: Prerequisites
 - [NodeJS](https://nodejs.org/) >= 14.x
