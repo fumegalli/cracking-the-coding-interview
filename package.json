@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/fumegalli/data-structures.git"
   },
-  "keywords": ["data structures", "linked list", "stack"],
+  "keywords": [
+    "data structures",
+    "linked list",
+    "stack"
+  ],
   "author": "Rafael Fumegalli",
   "license": "",
   "bugs": {
