@@ -54,17 +54,6 @@ class LinkedList {
       current.next = deletedNode.next;
     }
   }
-
-  log() {
-    let current = this.head;
-    let log = 'Head: ';
-    while (current !== null) {
-      log += `${current.data} -> `;
-      current = current.next;
-    }
-    log += 'null';
-    console.log(log);
-  }
 }
 
 module.exports = { LLNode, LinkedList };
