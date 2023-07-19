@@ -12,7 +12,8 @@
   "keywords": [
     "data structures",
     "linked list",
-    "stack"
+    "stack",
+    "queue"
   ],
   "author": "Rafael Fumegalli",
   "license": "",
