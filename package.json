@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/fumegalli/data-structures.git"
   },
-  "keywords": ["data structures", "linked list"],
+  "keywords": ["data structures", "linked list", "stack"],
   "author": "Rafael Fumegalli",
   "license": "",
   "bugs": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/fumegalli/data-structures#readme",
   "dependencies": {
-    "jest": "^29.6.1"
+    "jest": "29.6.1"
   }
 }
