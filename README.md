@@ -5,10 +5,10 @@
 
 | Algorithms  | Data Structures |
 | ------------- | ------------- |
-|    | [Linked List](./src/linked-list) |
-|    | [Hash Table](./src/hash-table) |
-|    | [Stack](./src/stack) |
-|    | [Queue](./src/queue) |
+| [Binary Search](./src/algorithms/binary-search) | [Linked List](./src/data-structures/linked-list) |
+|    | [Hash Table](./src/data-structures/hash-table) |
+|    | [Stack](./src/data-structures/stack) |
+|    | [Queue](./src/data-structures/queue) |
 </div>
 
 
