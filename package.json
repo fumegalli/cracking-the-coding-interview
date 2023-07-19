@@ -1,7 +1,7 @@
 {
-  "name": "data-structures",
+  "name": "data-structures-algorithms",
   "version": "1.0.0",
-  "description": "Implementation of data structures from scratch using JavaScript.",
+  "description": "Implementation of data structures and algorithms from scratch using JavaScript.",
   "scripts": {
     "test": "jest"
   },
