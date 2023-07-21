@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">Implementation of data structures and algorithms from scratch, answer for interview questions, etc.</p>
+<p align="center">Implementation of data structures and algorithms from scratch, solving interview questions, etc.</p>
 
 <div align="center">
 
