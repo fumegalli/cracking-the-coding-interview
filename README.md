@@ -1,5 +1,10 @@
-<h1 align="center">Data Structures & Algorithms</h1>
-<p align="center">Implementation of data structures and algorithms from scratch using JavaScript.</p>
+<p align="center">
+  <a href="https://unform.dev">
+    <img src="https://m.media-amazon.com/images/I/61mIq2iJUXL._AC_UF1000,1000_QL80_.jpg" height="333" width="233" alt="Cracking the coding interview book cover" />
+  </a>
+</p>
+
+<p align="center">Implementation of data structures and algorithms from scratch, answer for interview questions, etc.</p>
 
 <div align="center">
 
