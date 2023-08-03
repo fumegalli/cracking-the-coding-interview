@@ -9,6 +9,7 @@
 |    | [Hash Table](./src/data-structures/hash-table) |
 |    | [Stack](./src/data-structures/stack) |
 |    | [Queue](./src/data-structures/queue) |
+|    | [Binary Tree](./src/data-structures/binary-tree) |
 </div>
 
 
