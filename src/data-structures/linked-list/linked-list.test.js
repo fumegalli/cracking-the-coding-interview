@@ -1,4 +1,3 @@
-//const { LLNode, LinkedList } = require('../src/linked-list');
 const { LLNode, LinkedList } = require('./linked-list');
 
 describe('Linked List Tests', () => {
