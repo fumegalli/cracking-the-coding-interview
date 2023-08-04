@@ -15,6 +15,7 @@
 |    | [Stack](./src/data-structures/stack) |
 |    | [Queue](./src/data-structures/queue) |
 |    | [Binary Tree](./src/data-structures/binary-tree) |
+|    | [Graph](./src/data-structures/graph) |
 </div>
 
 
