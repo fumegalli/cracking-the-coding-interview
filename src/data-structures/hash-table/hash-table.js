@@ -1,6 +1,6 @@
 class HashTable {
   constructor() {
-    this.table = [];
+    this.table = new Array(127);
     this.size = 0;
   }
 
@@ -9,7 +9,7 @@ class HashTable {
     for (let i = 0; i < key.length; i++) {
       hash += key.charCodeAt(i);
     }
-    return hash;
+    return hash % this.table.length;
   }
 
   put(key, value) {
