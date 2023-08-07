@@ -11,7 +11,7 @@
 | Algorithms  | Data Structures |
 | ------------- | ------------- |
 | [Binary Search](./src/algorithms/binary-search) | [Linked List](./src/data-structures/linked-list) |
-|    | [Hash Table](./src/data-structures/hash-table) |
+| [Merge Sort](./src/algorithms/merge-sort) | [Hash Table](./src/data-structures/hash-table) |
 |    | [Stack](./src/data-structures/stack) |
 |    | [Queue](./src/data-structures/queue) |
 |    | [Binary Tree](./src/data-structures/binary-tree) |
