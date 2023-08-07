@@ -10,12 +10,12 @@
 
 | Algorithms  | Data Structures |
 | ------------- | ------------- |
+| [Breadth-First Search](./src/algorithms/breadth-first-search) | [Graph](./src/data-structures/graph) |
 | [Binary Search](./src/algorithms/binary-search) | [Linked List](./src/data-structures/linked-list) |
 | [Merge Sort](./src/algorithms/merge-sort) | [Hash Table](./src/data-structures/hash-table) |
 | [Quick Sort](./src/algorithms/quick-sort) | [Stack](./src/data-structures/stack) |
 |    | [Queue](./src/data-structures/queue) |
 |    | [Binary Tree](./src/data-structures/binary-tree) |
-|    | [Graph](./src/data-structures/graph) |
 </div>
 
 
